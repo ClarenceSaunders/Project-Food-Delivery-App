@@ -1,4 +1,11 @@
-# Project Food Delivery App
+# Food Delivery Dataset Analysis
+## 🍕 Live App
+
+👉 [Click here to use the Streamlit App](https://food-delivery-app-icc9dpbcozpz6kqxz2yfit.streamlit.app/)
+
+## Problem Statement
+In the rapidly growing food delivery industry, understanding customer order patterns and behaviors is critical for improving service efficiency and satisfaction. This analysis aims to uncover insights from a comprehensive food order dataset.
+
 
 ## Data Dictionary
 
@@ -16,11 +23,11 @@ The dataset consists of the following columns:
 
 ## Visualizations
 
-### 1. Order Value Distribution
-The Order Value Distribution visualization should depict the frequency of various order values to understand revenue trends. Ensure the graph correctly reflects the distribution of the cost_of_the_order.
+### 1. Distribution of Cost of Order
+The Order Cost Distribution visualization depicts the frequency of various order values to understand revenue trends. Based on the graph most of the delivery orders price range fall mostly between $10-$15 dollars while the average price falls at $16.50 dollars.
 
 ### 2. Customer Rating vs. Order Value Relationship
-This visualization shows the correlation between customer ratings and order values, helping identify trends and insights regarding customer satisfaction versus spending.
+This scatterplot shows the correlation between customer ratings and order values, helping identify trends and insights regarding customer satisfaction versus spending. the ratings mostly steer towards 4 and 5-star ratings for orders costing between $10-$20 dollars.
 
 ## Business Recommendations
 
